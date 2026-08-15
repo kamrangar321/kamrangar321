@@ -1,10 +1,16 @@
 # Hi, I'm Kamran Alam 👋
 
-## Biomedical Engineer | Data Annotator | Computer Vision Enthusiast
+## Biomedical Engineer | Data Annotator | Computer Vision & Medical Image Annotation
 
-I am a Biomedical Engineering graduate with practical experience in medical equipment, data quality, and computer vision annotation.
+Biomedical Engineering graduate with hands-on experience in **medical equipment, data quality, and computer vision annotation**.
 
-I am building hands-on experience in **medical image annotation, image segmentation, keypoint annotation, object detection, and video object tracking** using CVAT.
+I build practical annotation projects involving **medical image segmentation, bounding boxes, keypoint/skeleton annotation, object detection, and video object tracking** using CVAT.
+
+🔭 Currently building my **Computer Vision & Medical Image Annotation Portfolio**
+
+🌱 Developing skills in **CVAT, Computer Vision, Medical Imaging, Python, and OpenCV**
+
+🤝 Open to opportunities and collaboration in **Data Annotation, Medical Imaging, Computer Vision, and AI Dataset Annotation**
 
 ## 🔬 Areas of Interest
 
@@ -66,4 +72,4 @@ I am continuing to build practical computer vision annotation projects, with a p
 
 ## 🎯 Career Focus
 
-My goal is to combine my background in **Biomedical Engineering** with **Data Annotation and Computer Vision** to contribute to high-quality AI datasets, medical imaging applications, and healthcare technology projects.
+My goal is to combine my background in **Biomedical Engineering** with **Data Annotation and Computer Vision** to contribute to high-quality AI datasets, medical image analysis, healthcare AI, and computer vision projects.
