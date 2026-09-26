@@ -1,14 +1,14 @@
-# Hi, I'm Kamran Alam 👋
+# Hi, I'm Kamran Alam Khan 👋
 
-## Biomedical Engineer | Data Annotator | Computer Vision & Medical Image Annotation
+## Biomedical Engineer | Computer Vision | Medical Imaging | Deep Learning
 
-Biomedical Engineering graduate with hands-on experience in **medical equipment, data quality, and computer vision annotation**.
+Biomedical Engineering graduate with hands-on experience in medical imaging, computer vision, data annotation, deep learning, and healthcare AI. Passionate about developing AI-powered solutions for medical image analysis and disease detection.
 
 I build practical annotation projects involving **medical image segmentation, bounding boxes, keypoint/skeleton annotation, object detection, and video object tracking** using CVAT.
 
 🔭 Currently building my **Computer Vision & Medical Image Annotation Portfolio**
 
-🌱 Developing skills in **CVAT, Computer Vision, Medical Imaging, Python, and OpenCV**
+ 🌱 Developing skills in Deep Learning, PyTorch, Computer Vision, Medical Imaging, Python, OpenCV, and Healthcare AI
 
 🤝 Open to opportunities and collaboration in **Data Annotation, Medical Imaging, Computer Vision, and AI Dataset Annotation**
 
@@ -17,11 +17,14 @@ I build practical annotation projects involving **medical image segmentation, bo
 - Medical Image Annotation
 - Computer Vision
 - Biomedical Image Analysis
-- Data Annotation & Quality Control
+- Deep Learning
+- Machine Learning
+- Medical Imaging AI
+- Pneumonia Detection
 - Image Segmentation
-- Human Pose Estimation
 - Object Detection & Tracking
 - AI Dataset Preparation
+
 
 ## 🛠️ Tools & Skills
 
@@ -33,6 +36,18 @@ I build practical annotation projects involving **medical image segmentation, bo
 - Video Object Tracking
 - COCO Annotation Format
 - MOT Annotation Format
+  
+ **Programming & AI**
+- Python
+- PyTorch
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Deep Learning
+- Machine Learning
+- ResNet18
+
 
 **Data & Technical Tools**
 - Microsoft Excel
@@ -50,6 +65,11 @@ I build practical annotation projects involving **medical image segmentation, bo
 - Biomedical Equipment Documentation
 
 ## 🚀 Featured Computer Vision Projects
+### 🩺 Pneumonia Detection using Deep Learning
+Chest X-ray classification project for automated pneumonia detection using ResNet18 and PyTorch. The project includes data preprocessing, augmentation, model training, validation, and performance evaluation on chest X-ray datasets.
+
+**Skills:** Deep Learning • PyTorch • ResNet18 • Medical Imaging • Computer Vision • OpenCV • Classification
+<br>
 
 ### 🩻 Chest X-Ray Lung Segmentation
 Manual segmentation of the left and right lung regions from chest X-ray images using polygon annotations in CVAT.
@@ -66,10 +86,23 @@ Multi-object vehicle tracking across video frames using bounding boxes and track
 
 **Skills:** Video Annotation • Object Tracking • Bounding Boxes • MOT Format • CVAT
 
+
+
 ## 📈 Currently Developing
 
-I am continuing to build practical computer vision annotation projects, with a particular interest in biomedical and healthcare datasets.
+- Pneumonia Detection from Chest X-rays using ResNet18
+- Medical Image Analysis projects
+- Computer Vision annotation portfolio using CVAT
+- Deep Learning and PyTorch skills
+- Healthcare AI applications
 
 ## 🎯 Career Focus
 
-My goal is to combine my background in **Biomedical Engineering** with **Data Annotation and Computer Vision** to contribute to high-quality AI datasets, medical image analysis, healthcare AI, and computer vision projects.
+My goal is to combine my background in Biomedical Engineering with Computer Vision, Medical Imaging, Deep Learning, and Data Annotation to contribute to healthcare AI, medical image analysis, disease detection, and intelligent medical systems.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrangar321&show_icons=true&theme=github_dark)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=kamrangar321&layout=compact&theme=github_dark)
+
