@@ -14,17 +14,19 @@ I build practical annotation projects involving **medical image segmentation, bo
 
 ## 🔬 Areas of Interest
 
-- Medical Image Annotation
-- Computer Vision
-- Biomedical Image Analysis
-- Deep Learning
-- Machine Learning
-- Medical Imaging AI
-- Pneumonia Detection
-- Image Segmentation
-- Object Detection & Tracking
-- AI Dataset Preparation
-
+Medical Image Annotation
+-Computer Vision
+-Biomedical Image Analysis
+-Deep Learning
+-Machine Learning
+-Medical Imaging AI
+-Gait Analysis
+-Human Pose Estimation
+-Healthcare AI
+-Pneumonia Detection
+-Image Segmentation
+-Object Detection & Tracking
+-AI Dataset Preparation
 
 ## 🛠️ Tools & Skills
 
@@ -76,6 +78,11 @@ Manual segmentation of the left and right lung regions from chest X-ray images u
 
 **Skills:** Medical Image Annotation • Polygon Segmentation • CVAT • Dataset Preparation
 
+### 🚶 AI-Based Gait Analysis System
+Developed an AI-powered gait analysis system using computer vision and human pose estimation techniques. The system processes walking videos, extracts body keypoints, generates gait metrics, and visualizes human movement patterns for healthcare and rehabilitation applications.
+
+Skills: Computer Vision • YOLO Pose Estimation • OpenCV • Python • Gait Analysis • Healthcare AI • Motion Analysis • Video Processing
+
 ### 🧍 Human Pose Keypoint Annotation
 Human pose annotation using 17 body keypoints and skeleton connections for pose-estimation datasets.
 
@@ -90,11 +97,12 @@ Multi-object vehicle tracking across video frames using bounding boxes and track
 
 ## 📈 Currently Developing
 
-- Pneumonia Detection from Chest X-rays using ResNet18
-- Medical Image Analysis projects
-- Computer Vision annotation portfolio using CVAT
-- Deep Learning and PyTorch skills
-- Healthcare AI applications
+-Pneumonia Detection from Chest X-rays using ResNet18
+-AI-Based Gait Analysis System
+-Medical Image Analysis projects
+-Computer Vision annotation portfolio using CVAT
+-Deep Learning and PyTorch skills
+-Healthcare AI applications
 
 ## 🎯 Career Focus
 
